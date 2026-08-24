@@ -68,7 +68,7 @@ I'm always interested in collaborating on innovative projects, especially in hea
 
 ---
 
-## ✨ Highlights
+##  Highlights
 
 - 🎯 **Passion:** Technology and improving lives through code
 - 🧠 **Mindset:** Continuous learner, problem-solver, and innovator
