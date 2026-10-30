@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Prosper Shaibu Asare (Psasare)**
+#  Hi, I'm **Prosper Shaibu Asare (Psasare)**
 
 ### Full-Stack Developer | Healthcare Tech Enthusiast | Mobile & Web Developer
 
