@@ -41,9 +41,10 @@ Accra, Ghana • [GitHub (@mrrasare09)](https://github.com/mrrasare09) • [Emai
 
 ## Flagship Systems & Engineering Projects
 
-### 1. MindBridge — Mental Health Navigator Mobile Platform
+### 1. MindBridge - Mental Health Navigator Mobile Platform
 **Lead Software Engineer | Capstone Research & Implementation (2025–2026)**  
-[Repository Link](https://github.com/mrrasare09/MindBridge-Mental-Health-Navigator-Mobile-App-Project) • *Stack: React Native, Expo, TypeScript, Node.js, Express, PostgreSQL, Prisma, Gemini 2.5 Flash*
+[Repository Link](https://github.com/mrrasare09/MindBridge-Mental-Health-Navigator-Mobile-App-Project) •
+*Stack: React Native, Expo, TypeScript, Node.js, Express, PostgreSQL, Prisma, Gemini 2.5 Flash*
 
 * **Architecture:** Decoupled client-server architecture with strict domain boundaries, continuous state validation, and secure offline-first storage patterns.
 * **Context-Aware AI Companion:** Autonomous mental health agent implementing Motivational Interviewing (MI) and CBT reframing with zero-latency streaming and multilingual tokenization.
@@ -52,9 +53,10 @@ Accra, Ghana • [GitHub (@mrrasare09)](https://github.com/mrrasare09) • [Emai
 
 ---
 
-### 2. MindBridge — Web Platform & Resource Orchestrator
+### 2. MindBridge - Web Platform & Resource Orchestrator
 **Full-Stack Engineer**  
-[Repository Link](https://github.com/mrrasare09/MindBridge-Mental-Health-Navigator-Project-Web-App) • *Stack: TypeScript, React, Next.js, Node.js, Tailwind CSS*
+[Repository Link](https://github.com/mrrasare09/MindBridge-Mental-Health-Navigator-Project-Web-App) •
+*Stack: TypeScript, React, Next.js, Node.js, Tailwind CSS*
 
 * High-throughput web companion engineered for institutional counseling services and public psychoeducational distribution.
 * Features responsive accessibility compliant with WCAG 2.2 standards, interactive screening assessments, and centralized mental health resource indexing.
@@ -70,9 +72,10 @@ Accra, Ghana • [GitHub (@mrrasare09)](https://github.com/mrrasare09) • [Emai
 
 ---
 
-### 4. Smart Cookies — E-Commerce Transaction Engine
+### 4. Smart Cookies - E-Commerce Transaction Engine
 **Backend & Database Engineer**  
-[Repository Link](https://github.com/mrrasare09/e-commerce_website_Smart_Cookies_Project) • *Stack: TypeScript, Node.js, Express, Relational Database*
+[Repository Link](https://github.com/mrrasare09/e-commerce_website_Smart_Cookies_Project) • 
+*Stack: TypeScript, Node.js, Express, Relational Database*
 
 * Commercial transactional system with inventory reconciliation, cart session state management, structured payment gateway integration, and relational schema validation.
 
@@ -80,7 +83,8 @@ Accra, Ghana • [GitHub (@mrrasare09)](https://github.com/mrrasare09) • [Emai
 
 ### 5. Enterprise Course Registration Management System
 **Systems Developer**  
-[Repository Link](https://github.com/mrrasare09/Course-Registration-System) • *Stack: TypeScript, Node.js, SQL*
+[Repository Link](https://github.com/mrrasare09/Course-Registration-System) • 
+*Stack: TypeScript, Node.js, SQL*
 
 * Academic institutional application featuring relational course capacity tracking, deterministic schedule clash prevention, and Role-Based Access Control (RBAC).
 
@@ -88,7 +92,8 @@ Accra, Ghana • [GitHub (@mrrasare09)](https://github.com/mrrasare09) • [Emai
 
 ### 6. Automated Library Lifecycle & Cataloging System
 **Backend Developer**  
-[Repository Link](https://github.com/mrrasare09/Library-Management-System-) • *Stack: JavaScript, Node.js, Express, Database Design*
+[Repository Link](https://github.com/mrrasare09/Library-Management-System-) 
+• *Stack: JavaScript, Node.js, Express, Database Design*
 
 * High-performance cataloging and circulation system implementing indexing algorithms for rapid publication search, borrowing cycle timeouts, and member account tracking.
 
