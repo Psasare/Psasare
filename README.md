@@ -63,7 +63,7 @@ Accra, Ghana • [GitHub (@mrrasare09)](https://github.com/mrrasare09) • [Emai
 
 ---
 
-### 3. Bloom — Maternal Healthcare Information System
+### 3. Bloom - Maternal Healthcare Information System
 **Healthcare Systems Engineer**  
 [Repository Link](https://github.com/mrrasare09/Bloom-Maternal-Health-App-main) • *Stack: TypeScript, React Native, Mobile Architecture*
 
